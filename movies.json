@@ -1,9 +1,9 @@
 [{
-        "title": "Coco Loco",
-        "image": "http://static.barradar.lv/userfiles/images/bars/coco-loco/133625734023.jpg",
-        "rating": 23:30 - 00:30,
-        "releaseYear": "Pēterbaznīcas iela, Rīga, LV-1050, Latvia"
-        "genre": ["30% uz visiem kokteliem"]
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://api.androidhive.info/json/movies/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
     },
     {
         "title": "District 9",
