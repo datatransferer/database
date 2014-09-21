@@ -13,25 +13,25 @@
         "genre": ["Burito, metri, kokteļi divi par viena cenu."]
     },
     {
+        "title": "Greenwood bar",
+        "image": "https://lh6.googleusercontent.com/-vpb6k01yznY/VB8yyjfaQKI/AAAAAAAAAEs/481PsOg3-G8/s534-no/greenwood.png",
+        "rating": "18:00 - 20:00",
+        "releaseYear": "Krāmu iela 3, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "NABAKLAB",
+        "image": "https://lh6.googleusercontent.com/-GlEyZUD2xbk/VB8yzg5aa1I/AAAAAAAAAEM/1hOrozq3TYI/s534-no/nabaklub.png",
+        "rating": "19:00 - 21:00",
+        "releaseYear": "Zigfrīda Annas Meierovica bulvāris 12, Rīga",
+        "genre": ["Divi vienādi dzērienie = trešais bez maksas."]
+    },
+    {
         "title": "CITA PUSE",
         "image": "https://lh6.googleusercontent.com/-_Egc6oy9pms/VB8s93ApDEI/AAAAAAAAACs/Im3thYKfhw8/s534-no/citapuse.png",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["11.Novembra krastmala 35, Rīga"]
-    },
-    {
-        "title": "Greenwood bar",
-        "image": "https://lh5.googleusercontent.com/-73ALMMOCu6k/VB8IvJAAmFI/AAAAAAAAAB0/FPRhf8UwhOg/s577-no/greenwood.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Krāmu iela 3, Rīga"]
-    },
-    {
-        "title": "Tequila Boom",
-        "image": "https://lh4.googleusercontent.com/-HQUk4p4NsF8/VB8IxAf_2oI/AAAAAAAAABk/f0JMKwpBx9Y/s577-no/tequilaboom.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Mazā pils iela 11, Rīga"]
+        "rating": "20:00 - 23:00",
+        "releaseYear": "11.Novembra krastmala 35, Rīga",
+        "genre": ["Divi kokteļi par viena cenu"]
     },
     {
         "title": "The Last Samurai",
