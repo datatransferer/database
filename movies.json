@@ -1,37 +1,37 @@
 [{
-        "title": "Coco Loco",
+        "title": "Coco Loco Bar",
         "image": "https://lh5.googleusercontent.com/-TEkOHhDZRws/VB8IuhQ4TOI/AAAAAAAAABs/4DxyvCzDIe0/s577-no/cocoloco.jpg",
         "rating": 8.3,
         "releaseYear": 2014,
         "genre": ["Pēterbaznīcas iela, Rīga, LV-1050"]
     },
     {
-        "title": "District 9",
-        "image": "http://api.androidhive.info/json/movies/2.jpg",
+        "title": "Latvijas 1. Rokkafejnīca",
+        "image": "https://lh6.googleusercontent.com/-ZVW54jFw3ss/VB8IwGV3_gI/AAAAAAAAABo/ekMrsonfrvk/s577-no/rockcafe.jpg",
         "rating": 8,
         "releaseYear": 2009,
-        "genre": ["Action", "Sci-Fi", "Thriller"]
+        "genre": ["Mārstaļu ielā 2/4, Rīga"]
     },
     {
-        "title": "Transformers: Age of Extinction",
-        "image": "http://api.androidhive.info/json/movies/3.jpg",
+        "title": "CITA PUSE",
+        "image": "https://lh6.googleusercontent.com/-R9VU-4Gubj4/VB8IuXvCFpI/AAAAAAAAAAs/dsUOSt0EtpI/s577-no/citapuse.jpg",
         "rating": 6.3,
         "releaseYear": 2014,
-        "genre": ["Action", "Adventure", "Sci-Fi"]
+        "genre": ["11.Novembra krastmala 35, Rīga"]
     },
     {
-        "title": "X-Men: Days of Future Past",
-        "image": "http://api.androidhive.info/json/movies/4.jpg",
+        "title": "Greenwood bar",
+        "image": "https://lh5.googleusercontent.com/-73ALMMOCu6k/VB8IvJAAmFI/AAAAAAAAAB0/FPRhf8UwhOg/s577-no/greenwood.jpg",
         "rating": 8.4,
         "releaseYear": 2014,
-        "genre": ["Action", "Sci-Fi", "Thriller"]
+        "genre": ["Krāmu iela 3, Rīga"]
     },
     {
-        "title": "The Machinist",
-        "image": "http://api.androidhive.info/json/movies/5.jpg",
+        "title": "Tequila Boom",
+        "image": "https://lh4.googleusercontent.com/-HQUk4p4NsF8/VB8IxAf_2oI/AAAAAAAAABk/f0JMKwpBx9Y/s577-no/tequilaboom.jpg",
         "rating": 7.8,
         "releaseYear": 2004,
-        "genre": ["Drama", "Thriller"]
+        "genre": ["Mazā pils iela 11, Rīga"]
     },
     {
         "title": "The Last Samurai",
