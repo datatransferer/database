@@ -31,7 +31,7 @@
         "image": "https://lh4.googleusercontent.com/-Bvsx4bXY6EY/VB82Hm1oQsI/AAAAAAAAAE8/eMT95PFTtQI/s534-no/ala.png",
         "rating": "19:00 - 20:00",
         "releaseYear": "Peldu iela 19, Rīga",
-        "genre": ["Viss alus par 1.42 Eur."]
+        "genre": ["Svetdienās - Viss alus par 1.42 Eur."]
     },
     {
         "title": "YOLO bārs",
@@ -70,7 +70,7 @@
     },
     {
         "title": "Zapte",
-        "image": "http://api.androidhive.info/json/movies/7.jpg",
+        "image": "https://lh6.googleusercontent.com/-7V1YYk6_kHQ/VB9Bv7k4HZI/AAAAAAAAAGk/LX4UKOVhLDQ/s577-no/zapte.png",
         "rating": "21:00 - 22:00",
         "releaseYear": "Maza Monetu iela 5, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
@@ -80,61 +80,54 @@
         "image": "https://lh4.googleusercontent.com/-Bvsx4bXY6EY/VB82Hm1oQsI/AAAAAAAAAE8/eMT95PFTtQI/s534-no/ala.png",
         "rating": "23:00 - 00:00",
         "releaseYear": "Peldu iela 19, Rīga",
-        "genre": ["Viss alus par 1.42 Eur."]
+        "genre": ["Svetdienās - Viss alus par 1.42 Eur."]
     },
     {
-        "title": "Tangled",
-        "image": "http://api.androidhive.info/json/movies/8.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Action", "Drama", "Sci-Fi"]
+        "title": "YOLO bārs",
+        "image": "https://lh5.googleusercontent.com/-gBcAMOdXb30/VB8yxxJAdOI/AAAAAAAAADk/Yhx7UM8nrRs/s534-no/Yolo.png",
+        "rating": "23:00 - 00:00",
+        "releaseYear": "Palasta iela 10, Rīga",
+        "genre": ["Divi kokteļi = trešais bez maksas."]
     },
     {
-        "title": "Rush",
-        "image": "http://api.androidhive.info/json/movies/9.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Animation", "Comedy", "Family"]
+        "title": "Bārs Coco Loco",
+        "image": "https://lh6.googleusercontent.com/-S92qaD4ejEw/VB8yx7OPdjI/AAAAAAAAAD4/fffKMZyf70Q/s534-no/cocoloco.png",
+        "rating": "23:30 - 00:30",
+        "releaseYear": "Pēterbaznīcas iela 17, Rīga",
+        "genre": ["30% uz kokteļiem"]
     },
     {
-        "title": "Drag Me to Hell",
-        "image": "http://api.androidhive.info/json/movies/10.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Horror", "Thriller"]
+        "title": "Hardcore Hangover Club",
+        "image": "https://lh6.googleusercontent.com/-xF2V_0jGTfQ/VB8yyxcDsmI/AAAAAAAAAEo/NmayUUbotSY/s534-no/hardhangover.png",
+        "rating": "00:00 - 01:00",
+        "releaseYear": "Peldu iela 21, Rīga",
+        "genre": ["Divi kokteļi par viena cenu un alus 1 Euro."]
     },
     {
-        "title": "Despicable Me 2",
-        "image": "http://api.androidhive.info/json/movies/11.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Animation", "Comedy", "Family"]
+        "title": "Zapte",
+        "image": "https://lh6.googleusercontent.com/-7V1YYk6_kHQ/VB9Bv7k4HZI/AAAAAAAAAGk/LX4UKOVhLDQ/s577-no/zapte.png",
+        "rating": "00:00 - 01:00",
+        "releaseYear": "Maza Monetu iela 5, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
     },
     {
-        "title": "Kill Bill: Vol. 1",
-        "image": "http://api.androidhive.info/json/movies/12.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Action", "Crime"]
+        "title": "Greenwood bar",
+        "image": "https://lh6.googleusercontent.com/-vpb6k01yznY/VB8yyjfaQKI/AAAAAAAAAEs/481PsOg3-G8/s534-no/greenwood.png",
+        "rating": "01:00 - 02:00",
+        "releaseYear": "Krāmu iela 3, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
     },
     {
-        "title": "A Bug's Life",
-        "image": "http://api.androidhive.info/json/movies/13.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Animation", "Adventure", "Comedy"]
+        "title": "NABAKLAB",
+        "image": "https://lh6.googleusercontent.com/-GlEyZUD2xbk/VB8yzg5aa1I/AAAAAAAAAEM/1hOrozq3TYI/s534-no/nabaklub.png",
+        "rating": "02:00 - 03:00",
+        "releaseYear": "Zigfrīda Annas Meierovica bulvāris 12, Rīga",
+        "genre": ["Divi vienādi dzērienie = trešais bez maksas."]
     },
     {
-        "title": "Life of Brian",
-        "image": "http://api.androidhive.info/json/movies/14.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Comedy"]
-    },
-    {
-        "title": "How to Train Your Dragon",
-        "image": "http://api.androidhive.info/json/movies/15.jpg",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Animation", "Adventure", "Family"]
+        "title": "YOLO bārs",
+        "image": "https://lh5.googleusercontent.com/-gBcAMOdXb30/VB8yxxJAdOI/AAAAAAAAADk/Yhx7UM8nrRs/s534-no/Yolo.png",
+        "rating": "03:00 - 04:00",
+        "releaseYear": "Palasta iela 10, Rīga",
+        "genre": ["Divi kokteļi = trešais bez maksas."]
     }]
