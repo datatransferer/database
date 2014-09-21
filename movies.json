@@ -1,105 +1,105 @@
 [{
         "title": "Coco Loco Bar",
         "image": "https://lh5.googleusercontent.com/-TEkOHhDZRws/VB8IuhQ4TOI/AAAAAAAAABs/4DxyvCzDIe0/s577-no/cocoloco.jpg",
-        "rating": 8.3,
-        "releaseYear": 1999,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Pēterbaznīcas iela, Rīga, LV-1050"]
     },
     {
         "title": "Latvijas 1. Rokkafejnīca",
         "image": "https://lh6.googleusercontent.com/-ZVW54jFw3ss/VB8IwGV3_gI/AAAAAAAAABo/ekMrsonfrvk/s577-no/rockcafe.jpg",
-        "rating": 8,
-        "releaseYear": 2009,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Mārstaļu ielā 2/4, Rīga"]
     },
     {
         "title": "CITA PUSE",
         "image": "https://lh6.googleusercontent.com/-R9VU-4Gubj4/VB8IuXvCFpI/AAAAAAAAAAs/dsUOSt0EtpI/s577-no/citapuse.jpg",
-        "rating": 6.3,
-        "releaseYear": 2014,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["11.Novembra krastmala 35, Rīga"]
     },
     {
         "title": "Greenwood bar",
         "image": "https://lh5.googleusercontent.com/-73ALMMOCu6k/VB8IvJAAmFI/AAAAAAAAAB0/FPRhf8UwhOg/s577-no/greenwood.jpg",
-        "rating": 8.4,
-        "releaseYear": 2014,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Krāmu iela 3, Rīga"]
     },
     {
         "title": "Tequila Boom",
         "image": "https://lh4.googleusercontent.com/-HQUk4p4NsF8/VB8IxAf_2oI/AAAAAAAAABk/f0JMKwpBx9Y/s577-no/tequilaboom.jpg",
-        "rating": 7.8,
-        "releaseYear": 2004,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Mazā pils iela 11, Rīga"]
     },
     {
         "title": "The Last Samurai",
         "image": "http://api.androidhive.info/json/movies/6.jpg",
-        "rating": 7.7,
-        "releaseYear": 2003,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Action", "Drama", "History"]
     },
     {
         "title": "The Amazing Spider-Man 2",
         "image": "http://api.androidhive.info/json/movies/7.jpg",
-        "rating": 7.3,
-        "releaseYear": 2014,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Action", "Adventure", "Fantasy"]
     },
     {
         "title": "Tangled",
         "image": "http://api.androidhive.info/json/movies/8.jpg",
-        "rating": 7.9,
-        "releaseYear": 2010,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Action", "Drama", "Sci-Fi"]
     },
     {
         "title": "Rush",
         "image": "http://api.androidhive.info/json/movies/9.jpg",
-        "rating": 8.3,
-        "releaseYear": 2013,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Animation", "Comedy", "Family"]
     },
     {
         "title": "Drag Me to Hell",
         "image": "http://api.androidhive.info/json/movies/10.jpg",
-        "rating": 6.7,
-        "releaseYear": 2009,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Horror", "Thriller"]
     },
     {
         "title": "Despicable Me 2",
         "image": "http://api.androidhive.info/json/movies/11.jpg",
-        "rating": 7.6,
-        "releaseYear": 2013,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Animation", "Comedy", "Family"]
     },
     {
         "title": "Kill Bill: Vol. 1",
         "image": "http://api.androidhive.info/json/movies/12.jpg",
-        "rating": 8.2,
-        "releaseYear": 2003,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Action", "Crime"]
     },
     {
         "title": "A Bug's Life",
         "image": "http://api.androidhive.info/json/movies/13.jpg",
-        "rating": 7.2,
-        "releaseYear": 1998,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Animation", "Adventure", "Comedy"]
     },
     {
         "title": "Life of Brian",
         "image": "http://api.androidhive.info/json/movies/14.jpg",
-        "rating": 8.9,
-        "releaseYear": 1972,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Comedy"]
     },
     {
         "title": "How to Train Your Dragon",
         "image": "http://api.androidhive.info/json/movies/15.jpg",
-        "rating": 8.2,
-        "releaseYear": 2010,
+        "rating": "Latvijas 1. Rokkafejnīca",
+        "releaseYear": "Latvijas 1. Rokkafejnīca",
         "genre": ["Animation", "Adventure", "Family"]
     }]
