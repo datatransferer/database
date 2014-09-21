@@ -3,7 +3,7 @@
         "image": "https://lh6.googleusercontent.com/-xF2V_0jGTfQ/VB8yyxcDsmI/AAAAAAAAAEo/NmayUUbotSY/s534-no/hardhangover.png",
         "rating": "16:00 - 21:00",
         "releaseYear": "Peldu iela 21, Rīga",
-        "genre": ["Divi kokteļi par viena cenu, alus 1Eur."]
+        "genre": ["Divi kokteļi par viena cenu un alus 1 Euro."]
     },
     {
         "title": "Tequila Boom",
@@ -25,6 +25,34 @@
         "rating": "19:00 - 21:00",
         "releaseYear": "Zigfrīda Annas Meierovica bulvāris 12, Rīga",
         "genre": ["Divi vienādi dzērienie = trešais bez maksas."]
+    },
+    {
+        "title": "FOLKKLUBS ALA PAGRABS",
+        "image": "https://lh4.googleusercontent.com/-Bvsx4bXY6EY/VB82Hm1oQsI/AAAAAAAAAE8/eMT95PFTtQI/s534-no/ala.png",
+        "rating": "19:00 - 20:00",
+        "releaseYear": "Peldu iela 19, Rīga",
+        "genre": ["Viss alus par 1.42 Eur."]
+    },
+    {
+        "title": "YOLO bārs",
+        "image": "https://lh5.googleusercontent.com/-gBcAMOdXb30/VB8yxxJAdOI/AAAAAAAAADk/Yhx7UM8nrRs/s534-no/Yolo.png",
+        "rating": "19:00 - 20:00",
+        "releaseYear": "Palasta iela 10, Rīga",
+        "genre": ["Divi kokteļi = trešais bez maksas."]
+    },
+    {
+        "title": "Bārs Coco Loco",
+        "image": "https://lh6.googleusercontent.com/-S92qaD4ejEw/VB8yx7OPdjI/AAAAAAAAAD4/fffKMZyf70Q/s534-no/cocoloco.png",
+        "rating": "19:30 - 20:30",
+        "releaseYear": "Pēterbaznīcas iela 17, Rīga",
+        "genre": ["30% uz kokteļiem"]
+    },
+    {
+        "title": "Klubs Spacedog",
+        "image": "https://lh6.googleusercontent.com/-S92qaD4ejEw/VB8yx7OPdjI/AAAAAAAAAD4/fffKMZyf70Q/s534-no/spacedog.png",
+        "rating": "20:00 - 00:00",
+        "releaseYear": "Vecpilsētas iela 19, Rīga",
+        "genre": ["Ņem 3 maksā par 2."]
     },
     {
         "title": "CITA PUSE",
