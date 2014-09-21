@@ -1,16 +1,16 @@
 [{
-        "title": "Coco Loco Bar",
-        "image": "https://lh5.googleusercontent.com/-TEkOHhDZRws/VB8IuhQ4TOI/AAAAAAAAABs/4DxyvCzDIe0/s577-no/cocoloco.jpg",
-        "rating": "23:30 - 00:30",
-        "releaseYear": "Pēterbaznīcas iela, Rīga, LV-1050",
-        "genre": ["30% uz visiem kokteliem"]
+        "title": "HHC (Hardcore Hangover Club)",
+        "image": "https://lh6.googleusercontent.com/-xF2V_0jGTfQ/VB8yyxcDsmI/AAAAAAAAAEo/NmayUUbotSY/s534-no/hardhangover.png",
+        "rating": "16:00 - 21:00",
+        "releaseYear": "Peldu iela 21, Rīga",
+        "genre": ["Divi kokteļi par viena cenu un alus 1 Euro."]
     },
     {
-        "title": "Latvijas 1. Rokkafejnīca",
-        "image": "https://lh4.googleusercontent.com/-v-UeP5yq1RU/VB8q-E0SsHI/AAAAAAAAACM/MTZfSvKRULI/s534-no/citapuse.png",
-        "rating": "Latvijas 1. Rokkafejnīca",
-        "releaseYear": "Latvijas 1. Rokkafejnīca",
-        "genre": ["Mārstaļu ielā 2/4, Rīga"]
+        "title": "Tequila Boom",
+        "image": "https://lh3.googleusercontent.com/-m-R2xe1jlkI/VB8y0j7vgVI/AAAAAAAAAEk/A_mMwEpYDJo/s534-no/tequilaboom.png",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Mazā pils iela 11, Rīga",
+        "genre": ["Burito, metri, kokteļi divi par viena cenu."]
     },
     {
         "title": "CITA PUSE",
