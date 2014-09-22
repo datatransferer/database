@@ -6,6 +6,13 @@
         "genre": ["Divi kokteļi par viena cenu un alus 1 Euro."]
     },
     {
+        "title": "Sapņi un Kokteiļi",
+        "image": "https://lh4.googleusercontent.com/-cCLHYC7Gigk/VCBpjNkuB4I/AAAAAAAAAKI/86Dnth3nni0/s577-no/sapniunkokteli.png",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Blaumaņa ielā 32, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
         "title": "Tequila Boom",
         "image": "https://lh3.googleusercontent.com/-m-R2xe1jlkI/VB8y0j7vgVI/AAAAAAAAAEk/A_mMwEpYDJo/s534-no/tequilaboom.png",
         "rating": "17:00 - 19:00",
@@ -25,6 +32,13 @@
         "rating": "19:00 - 21:00",
         "releaseYear": "Zigfrīda Annas Meierovica bulvāris 12, Rīga",
         "genre": ["Divi vienādi dzērienie = trešais bez maksas."]
+    },
+    {
+        "title": "Shot Cafe",
+        "image": "https://lh3.googleusercontent.com/-77G2P8FNWFo/VCBsuOYc1oI/AAAAAAAAAKo/MYVfCXgS28I/s534-no/shotcafe.png",
+        "rating": "19:00 - 21:00",
+        "releaseYear": "Torņa iela 4, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "FOLKKLUBS ALA PAGRABS",
