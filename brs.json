@@ -1,132 +1,139 @@
 [{
         "title": "Hardcore Hangover Club",
-        "image": "https://lh3.googleusercontent.com/-ibklpvMnx4Y/VCACgrGub7I/AAAAAAAAAIA/lWz75kaddVg/s550-no/citapuse.png",
+        "image": "https://lh6.googleusercontent.com/-neA9fHxRpCU/VCAI1KxLuiI/AAAAAAAAAIo/iXtIEwUkl7w/s550-no/hardhangover.png",
         "rating": "16:00 - 21:00",
         "releaseYear": "Peldu iela 21, Rīga",
         "genre": ["Divi kokteļi par viena cenu un alus 1 Euro."]
     },
     {
         "title": "Tequila Boom",
-        "image": "https://lh3.googleusercontent.com/-ibklpvMnx4Y/VCACgrGub7I/AAAAAAAAAIA/lWz75kaddVg/s550-no/citapuse.png",
+        "image": "https://lh6.googleusercontent.com/-pR0zMGqvh_Q/VCAI5fJIqtI/AAAAAAAAAJo/qFOn4kb8fBI/s550-no/tequilaboom.png",
         "rating": "17:00 - 19:00",
         "releaseYear": "Mazā pils iela 11, Rīga",
         "genre": ["Burito, metri, kokteļi divi par viena cenu."]
     },
     {
         "title": "Greenwood bar",
-        "image": "https://lh6.googleusercontent.com/-vpb6k01yznY/VB8yyjfaQKI/AAAAAAAAAEs/481PsOg3-G8/s534-no/greenwood.png",
+        "image": "https://lh5.googleusercontent.com/-obQqluPlF7E/VCAI02CRpJI/AAAAAAAAAI4/GPIXiS3duyc/s550-no/greenwood.png",
         "rating": "18:00 - 20:00",
         "releaseYear": "Krāmu iela 3, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "NABAKLAB",
-        "image": "https://lh6.googleusercontent.com/-GlEyZUD2xbk/VB8yzg5aa1I/AAAAAAAAAEM/1hOrozq3TYI/s534-no/nabaklub.png",
+        "image": "https://lh3.googleusercontent.com/-VVWnQEIN-ec/VCAI2YE7gkI/AAAAAAAAAJA/oy5gh0N4c3g/s550-no/nabaklub.png",
         "rating": "19:00 - 21:00",
         "releaseYear": "Zigfrīda Annas Meierovica bulvāris 12, Rīga",
         "genre": ["Divi vienādi dzērienie = trešais bez maksas."]
     },
     {
         "title": "FOLKKLUBS ALA PAGRABS",
-        "image": "https://lh4.googleusercontent.com/-Bvsx4bXY6EY/VB82Hm1oQsI/AAAAAAAAAE8/eMT95PFTtQI/s534-no/ala.png",
+        "image": "https://lh4.googleusercontent.com/-hAF_WACAHvk/VCAIz-8QAmI/AAAAAAAAAI8/OkMsaJjPWfU/s550-no/ala.png",
         "rating": "19:00 - 20:00",
         "releaseYear": "Peldu iela 19, Rīga",
         "genre": ["Svetdienās - Viss alus par 1.42 Eur."]
     },
     {
         "title": "YOLO bārs",
-        "image": "https://lh5.googleusercontent.com/-gBcAMOdXb30/VB8yxxJAdOI/AAAAAAAAADk/Yhx7UM8nrRs/s534-no/Yolo.png",
+        "image": "https://lh3.googleusercontent.com/-TiHR0hmebdA/VCAIzy8XY0I/AAAAAAAAAJI/aiF5AOTWZac/s550-no/Yolo.png",
         "rating": "19:00 - 20:00",
         "releaseYear": "Palasta iela 10, Rīga",
         "genre": ["Divi kokteļi = trešais bez maksas."]
     },
     {
         "title": "Bārs Coco Loco",
-        "image": "https://lh6.googleusercontent.com/-S92qaD4ejEw/VB8yx7OPdjI/AAAAAAAAAD4/fffKMZyf70Q/s534-no/cocoloco.png",
+        "image": "https://lh6.googleusercontent.com/-Od9w9ZjcAY8/VCAI0ADL-SI/AAAAAAAAAIg/2ynUvNTK_VA/s550-no/cocoloco.png",
         "rating": "19:30 - 20:30",
         "releaseYear": "Pēterbaznīcas iela 17, Rīga",
         "genre": ["30% uz kokteļiem"]
     },
     {
+        "title": "Latvijas 1.Rokkafejnīca",
+        "image": "https://lh4.googleusercontent.com/-LwUeVrij4VA/VCAI4bqehOI/AAAAAAAAAJU/p8IaFsDRTuM/s550-no/rockcafe.png",
+        "rating": "20:00 - 22:00",
+        "releaseYear": "Mārstaļu iela 2/4, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
         "title": "Klubs Spacedog",
-        "image": "https://lh6.googleusercontent.com/-Flztd1helGk/VB9Bvfj-IfI/AAAAAAAAAGY/_5zQM8MEa1E/s577-no/spacedog.png",
+        "image": "https://lh4.googleusercontent.com/0C1JSJ8qVxsp2zOo-LikOWqOBtgI7b1eceSgj4xF1_o=s550-no",
         "rating": "20:00 - 00:00",
         "releaseYear": "Vecpilsētas iela 19, Rīga",
         "genre": ["Ņem 3 maksā par 2."]
     },
     {
         "title": "CITA PUSE",
-        "image": "https://lh4.googleusercontent.com/-_auVAqiXU8U/VB9BsrO_2cI/AAAAAAAAAFo/pmP_DkkYg8w/s577-no/citapuse.png",
+        "image": "https://lh3.googleusercontent.com/-ibklpvMnx4Y/VCACgrGub7I/AAAAAAAAAIA/lWz75kaddVg/s550-no/citapuse.png",
         "rating": "20:00 - 23:00",
         "releaseYear": "11.Novembra krastmala 35, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "Bārs Limonāde",
-        "image": "https://lh3.googleusercontent.com/-wJATSS0jF-I/VB9BuVFrwqI/AAAAAAAAAGo/6jGkf51noxI/s577-no/limonade.png",
+        "image": "https://lh5.googleusercontent.com/-ow5kJEDsRsQ/VCAI10lNMLI/AAAAAAAAAJE/rcbT0gkWLAI/s550-no/limonade.png",
         "rating": "20:00 - 21:00",
         "releaseYear": "Peldu iela 26, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "Zapte",
-        "image": "https://lh6.googleusercontent.com/-7V1YYk6_kHQ/VB9Bv7k4HZI/AAAAAAAAAGk/LX4UKOVhLDQ/s577-no/zapte.png",
+        "image": "https://lh3.googleusercontent.com/-_K5MvxmAGAw/VCAI5iBo1eI/AAAAAAAAAJk/YYTzU7dCSBI/s550-no/zapte.png",
         "rating": "21:00 - 22:00",
         "releaseYear": "Maza Monetu iela 5, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "FOLKKLUBS ALA PAGRABS",
-        "image": "https://lh4.googleusercontent.com/-Bvsx4bXY6EY/VB82Hm1oQsI/AAAAAAAAAE8/eMT95PFTtQI/s534-no/ala.png",
+        "image": "https://lh4.googleusercontent.com/-hAF_WACAHvk/VCAIz-8QAmI/AAAAAAAAAI8/OkMsaJjPWfU/s550-no/ala.png",
         "rating": "23:00 - 00:00",
         "releaseYear": "Peldu iela 19, Rīga",
         "genre": ["Svetdienās - Viss alus par 1.42 Eur."]
     },
     {
         "title": "YOLO bārs",
-        "image": "https://lh5.googleusercontent.com/-gBcAMOdXb30/VB8yxxJAdOI/AAAAAAAAADk/Yhx7UM8nrRs/s534-no/Yolo.png",
+        "image": "https://lh3.googleusercontent.com/-TiHR0hmebdA/VCAIzy8XY0I/AAAAAAAAAJI/aiF5AOTWZac/s550-no/Yolo.png",
         "rating": "23:00 - 00:00",
         "releaseYear": "Palasta iela 10, Rīga",
         "genre": ["Divi kokteļi = trešais bez maksas."]
     },
     {
         "title": "Bārs Coco Loco",
-        "image": "https://lh6.googleusercontent.com/-S92qaD4ejEw/VB8yx7OPdjI/AAAAAAAAAD4/fffKMZyf70Q/s534-no/cocoloco.png",
+        "image": "https://lh6.googleusercontent.com/-Od9w9ZjcAY8/VCAI0ADL-SI/AAAAAAAAAIg/2ynUvNTK_VA/s550-no/cocoloco.png",
         "rating": "23:30 - 00:30",
         "releaseYear": "Pēterbaznīcas iela 17, Rīga",
         "genre": ["30% uz kokteļiem"]
     },
     {
         "title": "Hardcore Hangover Club",
-        "image": "https://lh4.googleusercontent.com/-boGqwwmxenE/VB__rJOkyxI/AAAAAAAAAHY/M0TPIkhWPnI/s550-no/citapuse.png",
+        "image": "https://lh6.googleusercontent.com/-neA9fHxRpCU/VCAI1KxLuiI/AAAAAAAAAIo/iXtIEwUkl7w/s550-no/hardhangover.png",
         "rating": "00:00 - 01:00",
         "releaseYear": "Peldu iela 21, Rīga",
         "genre": ["Divi kokteļi par viena cenu un alus 1 Euro."]
     },
     {
         "title": "Zapte",
-        "image": "https://lh6.googleusercontent.com/-7V1YYk6_kHQ/VB9Bv7k4HZI/AAAAAAAAAGk/LX4UKOVhLDQ/s577-no/zapte.png",
+        "image": "https://lh3.googleusercontent.com/-_K5MvxmAGAw/VCAI5iBo1eI/AAAAAAAAAJk/YYTzU7dCSBI/s550-no/zapte.png",
         "rating": "00:00 - 01:00",
         "releaseYear": "Maza Monetu iela 5, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "Greenwood bar",
-        "image": "https://lh6.googleusercontent.com/-vpb6k01yznY/VB8yyjfaQKI/AAAAAAAAAEs/481PsOg3-G8/s534-no/greenwood.png",
+        "image": "https://lh5.googleusercontent.com/-obQqluPlF7E/VCAI02CRpJI/AAAAAAAAAI4/GPIXiS3duyc/s550-no/greenwood.png",
         "rating": "01:00 - 02:00",
         "releaseYear": "Krāmu iela 3, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "NABAKLAB",
-        "image": "https://lh6.googleusercontent.com/-GlEyZUD2xbk/VB8yzg5aa1I/AAAAAAAAAEM/1hOrozq3TYI/s534-no/nabaklub.png",
+        "image": "https://lh3.googleusercontent.com/-VVWnQEIN-ec/VCAI2YE7gkI/AAAAAAAAAJA/oy5gh0N4c3g/s550-no/nabaklub.png",
         "rating": "02:00 - 03:00",
         "releaseYear": "Zigfrīda Annas Meierovica bulvāris 12, Rīga",
         "genre": ["Divi vienādi dzērienie = trešais bez maksas."]
     },
     {
         "title": "YOLO bārs",
-        "image": "https://lh5.googleusercontent.com/-gBcAMOdXb30/VB8yxxJAdOI/AAAAAAAAADk/Yhx7UM8nrRs/s534-no/Yolo.png",
+        "image": "https://lh3.googleusercontent.com/-TiHR0hmebdA/VCAIzy8XY0I/AAAAAAAAAJI/aiF5AOTWZac/s550-no/Yolo.png",
         "rating": "03:00 - 04:00",
         "releaseYear": "Palasta iela 10, Rīga",
         "genre": ["Divi kokteļi = trešais bez maksas."]
