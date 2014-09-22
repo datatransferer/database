@@ -6,6 +6,13 @@
         "genre": ["Divi kokteļi par viena cenu un alus 1 Euro."]
     },
     {
+        "title": "Sapņi un Kokteiļi",
+        "image": "https://lh4.googleusercontent.com/-cCLHYC7Gigk/VCBpjNkuB4I/AAAAAAAAAKI/86Dnth3nni0/s577-no/sapniunkokteli.png",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Blaumaņa ielā 32, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
         "title": "Tequila Boom",
         "image": "https://lh6.googleusercontent.com/-pR0zMGqvh_Q/VCAI5fJIqtI/AAAAAAAAAJo/qFOn4kb8fBI/s550-no/tequilaboom.png",
         "rating": "17:00 - 19:00",
@@ -34,6 +41,13 @@
         "genre": ["Svetdienās - Viss alus par 1.42 Eur."]
     },
     {
+        "title": "Shot Cafe",
+        "image": "https://lh3.googleusercontent.com/-77G2P8FNWFo/VCBsuOYc1oI/AAAAAAAAAKo/MYVfCXgS28I/s534-no/shotcafe.png",
+        "rating": "19:00 - 21:00",
+        "releaseYear": "Torņa iela 4, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
         "title": "YOLO bārs",
         "image": "https://lh3.googleusercontent.com/-TiHR0hmebdA/VCAIzy8XY0I/AAAAAAAAAJI/aiF5AOTWZac/s550-no/Yolo.png",
         "rating": "19:00 - 20:00",
@@ -60,6 +74,13 @@
         "rating": "20:00 - 00:00",
         "releaseYear": "Vecpilsētas iela 19, Rīga",
         "genre": ["Ņem 3 maksā par 2."]
+    },
+    {
+        "title": "Pulkvedim neviens neraksta",
+        "image": "https://lh5.googleusercontent.com/-fS2S-N_lDW4/VCButeBLPTI/AAAAAAAAALA/UxzwN9WVDTw/s534-no/pulkvedimneraksta.png",
+        "rating": "20:00 - 22:00",
+        "releaseYear": "Peldu iela 26, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
     },
     {
         "title": "CITA PUSE",
