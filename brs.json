@@ -20,10 +20,31 @@
         "genre": ["Burito, metri, kokteļi divi par viena cenu."]
     },
     {
+        "title": "Mad House",
+        "image": "https://lh5.googleusercontent.com/-W_xyi3rBHxE/VCCDxXzTe5I/AAAAAAAAAL8/FhGs2hQ_NnQ/s534-no/madhouse.png",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Kaļķu iela 11, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Cuba Cafe",
+        "image": "https://lh4.googleusercontent.com/-_dSu1ACvtdo/VCCDxBlBgYI/AAAAAAAAAL4/cPEdkv18yQg/s534-no/cubacafe.png",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Jauniela 15, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
         "title": "Greenwood bar",
         "image": "https://lh5.googleusercontent.com/-obQqluPlF7E/VCAI02CRpJI/AAAAAAAAAI4/GPIXiS3duyc/s550-no/greenwood.png",
         "rating": "18:00 - 20:00",
         "releaseYear": "Krāmu iela 3, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Get Smart Cafe",
+        "image": "https://lh4.googleusercontent.com/-v-ww__Lzwt0/VCB04f8vV8I/AAAAAAAAALk/gtRy_Wan69s/s577-no/getsmartcafe.png",
+        "rating": "18:00 - 20:00",
+        "releaseYear": "Lāčplēša iela 43/45, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
