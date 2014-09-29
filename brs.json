@@ -13,6 +13,13 @@
         "genre": ["Tikai Otr-Cetr. Guinness, cider, wine - 1.75€."]
     },
     {
+        "title": "Omas Briljanta istaba",
+        "image": "https://lh3.googleusercontent.com/-hmGtkzqiemk/VCnMQudvRHI/AAAAAAAAAQI/s0lJ05ckJg0/s150-no/omas%2Bbriliants.png",
+        "rating": "17:00 - 18:00",
+        "releaseYear": "Audēju iela 7-13, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
         "title": "Sapņi un Kokteiļi",
         "image": "https://lh5.googleusercontent.com/-vW7Di1qaTW0/VCZun-tvxYI/AAAAAAAAAOE/g6hNriRFWwY/s150-no/sapniunkokteli.png",
         "rating": "17:00 - 19:00",
@@ -97,10 +104,10 @@
         "genre": ["Tikai Otr-Cetr. Beer, cider, wine - 1.75€."]
     },
     {
-        "title": "Pulkvedim neviens neraksta",
-        "image": "https://lh4.googleusercontent.com/-_CjeAY_0QBI/VCZunstrN7I/AAAAAAAAANg/FRbYMF49YRs/s150-no/pulkvedimneraksta.png",
-        "rating": "20:00 - 22:00",
-        "releaseYear": "Peldu iela 26, Rīga",
+        "title": "Omas Briljanta istaba",
+        "image": "https://lh3.googleusercontent.com/-hmGtkzqiemk/VCnMQudvRHI/AAAAAAAAAQI/s0lJ05ckJg0/s150-no/omas%2Bbriliants.png",
+        "rating": "20:00 - 21:00",
+        "releaseYear": "Audēju iela 7-13, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
@@ -122,6 +129,13 @@
         "image": "https://lh6.googleusercontent.com/-DuLtXACl9fs/VCm3rMq4QmI/AAAAAAAAAPI/0OidDw1xsU8/s150-no/kabildinatnarinu.png",
         "rating": "20:00 - 22:00",
         "releaseYear": "Inženieru iela 1, Rīga",
+        "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Pulkvedim neviens neraksta",
+        "image": "https://lh4.googleusercontent.com/-_CjeAY_0QBI/VCZunstrN7I/AAAAAAAAANg/FRbYMF49YRs/s150-no/pulkvedimneraksta.png",
+        "rating": "20:00 - 22:00",
+        "releaseYear": "Peldu iela 26, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
