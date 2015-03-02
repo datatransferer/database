@@ -34,18 +34,18 @@
         "genre": ["Burito, metri, kokteļi divi par viena cenu."]
     },
     {
-        "title": "Mad House",
-        "image": "https://lh4.googleusercontent.com/-MC8i3xKZ9vA/VCZumzOyNsI/AAAAAAAAANc/2Ml1cxXDcIM/s150-no/madhouse.png",
-        "rating": "17:00 - 19:00",
-        "releaseYear": "Kaļķu iela 11, Rīga",
-        "genre": ["Divi kokteļi par viena cenu."]
-    },
-    {
         "title": "Cuba Cafe",
         "image": "https://lh5.googleusercontent.com/-6rO1suLs10s/VCZuk1WNsPI/AAAAAAAAAOQ/zoFuB7MI9gM/s150-no/cubacafe.png",
         "rating": "17:00 - 19:00",
         "releaseYear": "Jauniela 15, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Backpackers Pub",
+        "image": "https://lh3.googleusercontent.com/-Z0AopsuicmU/VPSO65lpczI/AAAAAAAAAAo/6OkVI0DtT2I/s150-no/hostelbar.png",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Vaļņu iela 43, Rīga",
+        "genre": ["30% atlaide uz visu alus."]
     },
     {
         "title": "Greenwood bar",
