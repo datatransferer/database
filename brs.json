@@ -48,6 +48,13 @@
         "genre": ["30% atlaide uz visu alus."]
     },
     {
+        "title": "Spot Kafe",
+        "image": "https://lh3.googleusercontent.com/-qLgeHb5PkIY/VQXiRBw1YlI/AAAAAAAAASA/w5IYtg8FK7o/s150-no/spotcafe.png",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Jauniela 19, Rīga",
+        "genre": ["Divi kokteļi par viena cenu. Šoti 2+1."]
+    },
+    {
         "title": "Bārs Ūsas",
         "image": "https://lh4.googleusercontent.com/-jhCkdaDG7X8/VQSfUrirFcI/AAAAAAAAARg/y7IszRr-Mwo/s150-no/usas%2Bbars.png",
         "rating": "18:00 - 19:00",
@@ -174,6 +181,13 @@
         "genre": ["2=3 Divi kokteļi, trešais bezmaksas."]
     },
     {
+        "title": "Spot Kafe",
+        "image": "https://lh3.googleusercontent.com/-qLgeHb5PkIY/VQXiRBw1YlI/AAAAAAAAASA/w5IYtg8FK7o/s150-no/spotcafe.png",
+        "rating": "22:00 - 24:00",
+        "releaseYear": "Jauniela 19, Rīga",
+        "genre": ["Divi kokteļi par viena cenu. Šoti 2+1."]
+    },
+    {
         "title": "FOLKKLUBS ALA PAGRABS",
         "image": "https://lh4.googleusercontent.com/-WOWi5jkSsOA/VCZukMM17oI/AAAAAAAAAOo/lOhd6UQKUfk/s150-no/ala.png",
         "rating": "23:00 - 00:00",
@@ -228,6 +242,13 @@
         "rating": "02:00 - 03:00",
         "releaseYear": "Zigfrīda Annas Meierovica bulvāris 12, Rīga",
         "genre": ["Divi vienādi dzērieni = trešais bez maksas."]
+    },
+    {
+        "title": "Spot Kafe",
+        "image": "https://lh3.googleusercontent.com/-qLgeHb5PkIY/VQXiRBw1YlI/AAAAAAAAASA/w5IYtg8FK7o/s150-no/spotcafe.png",
+        "rating": "02:00 - 03:00",
+        "releaseYear": "Jauniela 19, Rīga",
+        "genre": ["Divi kokteļi par viena cenu. Šoti 2+1."]
     },
     {
         "title": "YOLO bārs",
