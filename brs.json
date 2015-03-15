@@ -160,6 +160,13 @@
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
+        "title": "Bārs B52",
+        "image": "https://lh3.googleusercontent.com/-wZU6YKgX0xo/VQXiQ03eWOI/AAAAAAAAAR8/hC6R5sd451w/s150-no/b52bars.png",
+        "rating": "21:00 - 22:00",
+        "releaseYear": "Teātra iela 12, Rīga",
+        "genre": ["Divi kokteļi = trešais bez maksas."]
+    },
+    {
         "title": "Bārs Ūsas",
         "image": "https://lh4.googleusercontent.com/-jhCkdaDG7X8/VQSfUrirFcI/AAAAAAAAARg/y7IszRr-Mwo/s150-no/usas%2Bbars.png",
         "rating": "22:00 - 23:00",
@@ -207,6 +214,13 @@
         "rating": "01:00 - 02:00",
         "releaseYear": "Krāmu iela 3, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Bārs B52",
+        "image": "https://lh3.googleusercontent.com/-wZU6YKgX0xo/VQXiQ03eWOI/AAAAAAAAAR8/hC6R5sd451w/s150-no/b52bars.png",
+        "rating": "01:00 - 02:00",
+        "releaseYear": "Teātra iela 12, Rīga",
+        "genre": ["Divi kokteļi = trešais bez maksas."]
     },
     {
         "title": "NABAKLAB",
