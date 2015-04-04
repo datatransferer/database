@@ -188,18 +188,18 @@
         "genre": ["Divi kokteļi = trešais bez maksas."]
     },
     {
-        "title": "Bārs B52",
-        "image": "https://lh3.googleusercontent.com/-wZU6YKgX0xo/VQXiQ03eWOI/AAAAAAAAAR8/hC6R5sd451w/s150-no/b52bars.png",
-        "rating": "21:00 - 22:00",
-        "releaseYear": "Teātra iela 12, Rīga",
-        "genre": ["Divi kokteļi = trešais bez maksas."]
-    },
-    {
         "title": "AmPir",
         "image": "https://lh5.googleusercontent.com/-mlnRYixoEto/VR_nRlmeVFI/AAAAAAAAATE/YQ9mpgg-7UY/s150-no/ampir.png",
         "rating": "21:00 - 23:00",
         "releaseYear": "Kalku iela 22, Riga",
         "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Bārs Ūsas",
+        "image": "https://lh4.googleusercontent.com/-jhCkdaDG7X8/VQSfUrirFcI/AAAAAAAAARg/y7IszRr-Mwo/s150-no/usas%2Bbars.png",
+        "rating": "22:00 - 23:00",
+        "releaseYear": "Vecpilsētas iela 11, Rīga",
+        "genre": ["2=3 Divi kokteļi, trešais bezmaksas."]
     },
     {
         "title": "Spot Kafe",
