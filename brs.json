@@ -1,4 +1,11 @@
 [{
+        "title": "NB Biljarda klubs",
+        "image": "https://lh5.googleusercontent.com/-bUPQkkKyr5w/VWSMlTQWxoI/AAAAAAAAATw/yWiRjpX4kwE/s189-no/nb_club.png",
+        "rating": "10:00 - 19:00",
+        "releaseYear": "Šķūņu iela 9, Rīga",
+        "genre": ["Divi kokteļi par viena cenu kartu Darba Dienu."]
+    },
+        {
         "title": "Hardcore Hangover Club",
         "image": "https://lh3.googleusercontent.com/-u4ZQUS64TKo/VCZumCG4JOI/AAAAAAAAANQ/klxcQDixm2Y/s150-no/hardhangover.png",
         "rating": "16:00 - 21:00",
@@ -186,6 +193,13 @@
         "rating": "21:00 - 22:00",
         "releaseYear": "Teātra iela 12, Rīga",
         "genre": ["Divi kokteļi = trešais bez maksas."]
+    },
+    {
+        "title": "Cheers!",
+        "image": "https://lh3.googleusercontent.com/-5pa4Q68vedg/VWSMlTFilcI/AAAAAAAAATs/VpZPgYguSYk/s189-no/cheers%2Bbar.png",
+        "rating": "21:00 - 22:00",
+        "releaseYear": "Audeju iela 8, Rīga",
+        "genre": ["Divi kokteļi par viena cenu katru Otdienu un Ceturdienu."]
     },
     {
         "title": "AmPir",
