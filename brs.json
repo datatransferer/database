@@ -62,13 +62,6 @@
         "genre": ["Divi kokteļi par viena cenu. Šoti 2+1."]
     },
     {
-        "title": "Bārs Ūsas",
-        "image": "https://lh4.googleusercontent.com/-jhCkdaDG7X8/VQSfUrirFcI/AAAAAAAAARg/y7IszRr-Mwo/s150-no/usas%2Bbars.png",
-        "rating": "18:00 - 19:00",
-        "releaseYear": "Vecpilsētas iela 11, Rīga",
-        "genre": ["2=3 Divi kokteļi, trešais bezmaksas."]
-    },
-    {
         "title": "Greenwood bar",
         "image": "https://lh3.googleusercontent.com/-OT2EemsEX84/VCZulrUci9I/AAAAAAAAANE/fTVQT3CSxhI/s150-no/greenwood.png",
         "rating": "18:00 - 20:00",
@@ -116,6 +109,13 @@
         "rating": "19:00 - 21:00",
         "releaseYear": "Torņa iela 4, Rīga",
         "genre": ["Divi kokteļi par viena cenu un laimīgas stundas VISU svētdienu!"]
+    },
+    {
+        "title": "DEPO",
+        "image": "https://lh3.googleusercontent.com/N6-NpssS2dp4hRwDqxypAIzH1rYjxoknY4WqC4u97zpYxJGLopUPCbgEf8vxKL2wLjcjbvWNAqbzZKyXDHHhR1Y8g5sXoYQawBBZrf7uIQd6QHA5B97psM0o26sI6rRLKE1PYgP7fyIFvGsM0Mi49C4TZsseASpzbz2LL1W-dOhtkEe9D_3jT_XjvBsrJcHya-4iCL3gVRCsNyBTIafwt8goj3VOuTTrcBSsh00kgPDYnphqZ8RfBLLEyeXEjsFbmQDbZ-QP23wzQeF6fHLNW4QILScXXl_L-5_9IL0uqOzmoBzZ2SpW48VdoZn-gC6MKjdtqwWcsdWND6DxXUMzs5pl0WLBhTSALDuOwL5prgNmf8Ag2YS1vNiNoKFgqJwSNP3Bl6cWZSYmNlSo8MzTAL4OfFjp-6rT6Hn9Jqw4EbZulKOL6yH7woNbru7TK2YexcotCcSfBzyKrNOviASEsxRlRF2vlpejuO5GUqtK2o4buHBjM1CxF7oa90hOcQWAVyIV0QYGE7yztfAH5cUUuub9ZY_IBWOlneKChkUKmNc=s150-no",
+        "rating": "19:00 - 21:00",
+        "releaseYear": "Vaļņu ielā 32, Rīga",
+        "genre": ["Divi dzērieni par viena cenu."]
     },
     {
         "title": "NABAKLAB",
@@ -167,13 +167,6 @@
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
-        "title": "Klubs Spacedog",
-        "image": "https://lh4.googleusercontent.com/-VE89v_fDtU0/VCZuojfflKI/AAAAAAAAAOA/avIq_XPRVGg/s150-no/spacedog.png",
-        "rating": "20:00 - 00:00",
-        "releaseYear": "Vecpilsētas iela 19, Rīga",
-        "genre": ["Ņem 3 maksā par 2."]
-    },
-    {
         "title": "CITA PUSE",
         "image": "https://lh3.googleusercontent.com/-jlXNyQPcBOg/VCZujwtTl3I/AAAAAAAAAMk/NmsxZkndRvg/s150-no/citapuse.png",
         "rating": "20:00 - 23:00",
@@ -209,16 +202,9 @@
         "genre": ["Divi kokteļi par viena cenu."]
     },
     {
-        "title": "Bārs Ūsas",
-        "image": "https://lh4.googleusercontent.com/-jhCkdaDG7X8/VQSfUrirFcI/AAAAAAAAARg/y7IszRr-Mwo/s150-no/usas%2Bbars.png",
-        "rating": "22:00 - 23:00",
-        "releaseYear": "Vecpilsētas iela 11, Rīga",
-        "genre": ["2=3 Divi kokteļi, trešais bezmaksas."]
-    },
-    {
         "title": "Spot Kafe",
         "image": "https://lh3.googleusercontent.com/-qLgeHb5PkIY/VQXiRBw1YlI/AAAAAAAAASA/w5IYtg8FK7o/s150-no/spotcafe.png",
-        "rating": "22:00 - 24:00",
+        "rating": "22:00 - 23:00",
         "releaseYear": "Jauniela 19, Rīga",
         "genre": ["Divi kokteļi par viena cenu. Šoti 2+1."]
     },
