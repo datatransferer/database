@@ -24,7 +24,7 @@
         "image": "https://lh3.googleusercontent.com/-hmGtkzqiemk/VCnMQudvRHI/AAAAAAAAAQI/s0lJ05ckJg0/s150-no/omas%2Bbriliants.png",
         "rating": "17:00 - 18:00",
         "releaseYear": "Audēju iela 7-13, Rīga",
-        "genre": ["Divi kokteļi par viena cenu."]
+        "genre": ["Divi kokteļi par viena cenu. "]
     },
     {
         "title": "Sapņi un Kokteiļi",
@@ -55,11 +55,25 @@
         "genre": ["30% atlaide uz visu alus."]
     },
     {
+        "title": "Ibar",
+        "image": "https://photos.google.com/search/_tra_/photo/AF1QipP5GnIyqA5yD5AGfu3eY44bfLKCIEOZj-1xKoKt",
+        "rating": "17:00 - 19:00",
+        "releaseYear": "Blaumaņa iela 12a, Rīga",
+        "genre": ["Only WORKING DAYS: Buy 1 get 2 on all coctails!"]
+    },
+    {
         "title": "Spot Kafe",
         "image": "https://lh3.googleusercontent.com/-qLgeHb5PkIY/VQXiRBw1YlI/AAAAAAAAASA/w5IYtg8FK7o/s150-no/spotcafe.png",
         "rating": "17:00 - 19:00",
         "releaseYear": "Jauniela 19, Rīga",
         "genre": ["Divi kokteļi par viena cenu. Šoti 2+1."]
+    },
+    {
+        "title": "Melodija",
+        "image": "https://photos.google.com/search/_tra_/photo/AF1QipPuuhE9gfQoGNlzOcJRwEjU_yd_2Yp8o6g7wdl1",
+        "rating": "17:00 - 20:00",
+        "releaseYear": "11. novembra krastmala 9, Rīga",
+        "genre": ["Only WORKING DAYS: Buy 1 get 2 - Cubalibre, Mojito, Aperol Spritz."]
     },
     {
         "title": "Greenwood bar",
@@ -74,6 +88,13 @@
         "rating": "18:00 - 20:00",
         "releaseYear": "Lāčplēša iela 43/45, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Gladiator Bars",
+        "image": "https://photos.google.com/search/_tra_/photo/AF1QipMKR3XAAfe4lkrKxVCDrER8YY3qCcweXHaG183z",
+        "rating": "18:00 - 20:00",
+        "releaseYear": "Mazā Smilšu iela 17, Rīga",
+        "genre": ["All coctails and shorts - buy one get two! All Thursday and Friday -30% for students!"]
     },
     {
         "title": "Solyanka Bar",
@@ -235,6 +256,13 @@
         "rating": "01:00 - 02:00",
         "releaseYear": "Krāmu iela 3, Rīga",
         "genre": ["Divi kokteļi par viena cenu."]
+    },
+    {
+        "title": "Gladiator Bars",
+        "image": "https://photos.google.com/search/_tra_/photo/AF1QipMKR3XAAfe4lkrKxVCDrER8YY3qCcweXHaG183z",
+        "rating": "01:00 - 02:00",
+        "releaseYear": "Mazā Smilšu iela 17, Rīga",
+        "genre": ["All coctails and shorts - buy one get two! All Thursday and Friday -30% for students!"]
     },
     {
         "title": "Bārs B52",
